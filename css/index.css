@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #28272e;
+    font-family: 'DynaPuff', cursive;
+}
+
+
+.fondo{
+width: 1920px;
+height: 1080px;
+background: #28272e;
+}
+
+.contenido1{
+    color: #28272e;
+    position: absolute;
+    left: 48%;
+    bottom: 45%;
+    top: 37%;
+}
+
+.contenido2{
+    color: #28272e;
+    position: absolute;
+    left: 12%;
+    bottom: -22%;
+}
+.fondo2{
+width: 1440px;
+height: 1080px;
+background: #8e8771;
+position: absolute;
+left: 10%;
+top: 15%;
+bottom: 100px;
+}
+
+.lineav{
+    border-left: thin solid #28272e;
+    height:1080px;
+    left: 46%;
+    top: 15% ;
+    position: absolute;
+   }
+
+.img{
+  width: 250px;
+  height: 250px;
+  margin: 0%;
+  position: absolute;
+  left: 21%;
+  top: 22%;
+
+}
+.rounded{
+    border-radius: 100%;
+}
